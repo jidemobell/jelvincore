@@ -7,7 +7,8 @@
 /* Preloader */
 
 .handle-preloader{
-  background-color:var(--primary-color);
+  /* background-color:var(--primary-color); */
+  background-color: #0c2957;
 }
 
 .handle-preloader {
@@ -684,6 +685,8 @@ form label.error{
   min-height: 100px;
   font-family: 'Open Sans', sans-serif;
   z-index: 999;
+  /* background-color: #124076;
+  color: white */
 }
 
 .main-header.alternate{

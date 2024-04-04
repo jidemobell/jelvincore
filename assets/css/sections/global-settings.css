@@ -21,7 +21,8 @@ body {
 a {
 	text-decoration: none;
 	cursor: pointer;
-	color: #ff5522;
+	/* color: #ff5522; */
+  color: #124076;
 	transition: all 300ms linear;
 }
 
@@ -167,8 +168,11 @@ p{
   font-size: 16px;
   text-align: center;
   text-transform: capitalize;
-  background: #ff5522;
-  border: 2px solid #ff5522;
+  /* background: #ff5522; */
+  background: #124076;
+  /* border: 2px solid #ff5522; */
+  border: 2px solid #124076;
+
   border-radius: 5px;
   -moz-transition:all 0.3s ease;
   -webkit-transition:all 0.3s ease;
@@ -202,9 +206,11 @@ p{
 }
 
 .btn-style-one:hover{
-  color: #ff5522;
+  /* color: #ff5522; */
+  color: #124076;
   background: none;
-  border-color: #ff5522;
+  /* border-color: #ff5522; */
+  border-color: #124076;
 }
 
 .btn-style-two{
@@ -220,8 +226,10 @@ p{
   font-size: 16px;
   text-align: center;
   text-transform: capitalize;
-  background: #ff5522;
-  border: 2px solid #ff5522;
+  /* background: #ff5522;
+  border: 2px solid #ff5522; */
+  background: #124076;
+  border: 2px solid #124076;
   border-radius: 5px;
   -moz-transition:all 0.3s ease;
   -webkit-transition:all 0.3s ease;
@@ -260,9 +268,11 @@ p{
 }
 
 .btn-style-two:hover{
-  color: #ff5522;
+  /* color: #ff5522; */
+  color: #124076;
   background: none;
-  border-color: #ff5522;
+  /* border-color: #ff5522; */
+  border-color: #124076;
 }
 
 .btn-style-two i img{
@@ -331,8 +341,10 @@ p{
 
 .btn-style-three:hover{
   color: #ffffff;
-  background: #ff5522;
-  border-color: #ff5522;
+  /* background: #ff5522; */
+  background: #124076;
+  /* border-color: #ff5522; */
+  border-color:#124076;
 }
 
 .btn-style-three i img{
@@ -357,7 +369,8 @@ p{
 }
 
 .theme_color {
-  color: #ff5522;
+  /* color: #ff5522; */
+  color: #124076;
 }
 
 .light-font {
