@@ -2,7 +2,8 @@
 	/* Colors */
 	/* --primary-color: #ff5522; */
 	/* --primary-color: #124076; */
-	--primary-color: #D17E08;
+	--primary-color: #E94823;
+	/* --primary-color: #D17E08; */
 	--secondary-color: #ffb400;
 	--tertiary-color: #4a6660;
 	--light-purple-color: #a3adcc;
@@ -14,7 +15,8 @@
 	--dark-gray-color: #2d3434;
 	--medium-gray-color: #6c7171;
 	--light-gray-gray: #a8b1b5;
-	--anti-flash-white-color: #f2f4f7;
+	/* --anti-flash-white-color: #f2f4f7; */
+	--anti-flash-white-color: #ffffff;
 
 	/* Social Icons Colors */
 	--facebook-color: #1877f2;

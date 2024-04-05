@@ -687,7 +687,12 @@ form label.error{
   z-index: 999;
   /* background-color: #124076;
   color: white */
+  color: #000000;
 }
+
+/* .main-header .header-upper .login a {
+  color: #000000;
+} */
 
 .main-header.alternate{
   position: relative;
@@ -841,6 +846,9 @@ form label.error{
   background-color: var(--primary-color);
 }
 
+
+
+
 .header-top .top-right .login{
   position: relative;
   float: left;
@@ -853,13 +861,17 @@ form label.error{
   position: relative;
   display: block;
   line-height: 30px;
-  color: var(--medium-gray-color);
+  /* color: var(--medium-gray-color); */
 }
+
+
 
 .header-top .top-right .login a:hover{
   text-decoration: underline;
   color: var(--primary-color);
 }
+
+
 
 .header-top .social{
     position: relative;
@@ -1024,9 +1036,11 @@ form label.error{
 }
 
 .main-header .header-upper .login a{
-  color: var(--medium-gray-color);
+  /* color: var(--medium-gray-color); */
   font-size: 16px;
   line-height: 30px;
+  color: #000000;
+  font-weight: bold;
 }
 
 .main-header .header-upper .social{
